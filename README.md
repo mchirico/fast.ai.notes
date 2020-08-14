@@ -10,7 +10,7 @@ export INSTANCE_TYPE="n1-highmem-8" # budget: "n1-highmem-4"
 gcloud compute instances create $INSTANCE_NAME \
         --zone=$ZONE \
         --image-family=$IMAGE_FAMILY \
-        --image-project=mchirico \
+        --image-project=deeplearning-platform-release \
         --maintenance-policy=TERMINATE \
         --accelerator="type=nvidia-tesla-p100,count=1" \
         --machine-type=$INSTANCE_TYPE \
