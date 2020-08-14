@@ -1,5 +1,7 @@
 # fast.ai.notes
 
+[fast.ai.on gcp](https://course.fast.ai/start_gcp.html)
+
 ```
 export IMAGE_FAMILY="pytorch-latest-gpu" # or "pytorch-latest-cpu" for non-GPU instances
 export ZONE="us-central1-f"
