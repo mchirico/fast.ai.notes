@@ -1,5 +1,7 @@
 # fast.ai.notes
 
+[fast.ai BOOK](https://github.com/fastai/fastbook)
+
 [fast.ai.on gcp](https://course.fast.ai/start_gcp.html)
 
 [fast.ai.restart](https://course.fast.ai/update_gcp.html)
