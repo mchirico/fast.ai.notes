@@ -2,6 +2,8 @@
 
 [fast.ai. Course](https://docs.fast.ai/)
 
+[fast.ai First Lession](https://course.fast.ai/start_colab.html)
+
 [fast.ai BOOK](https://github.com/fastai/fastbook)
 
 [fast.ai.on gcp](https://course.fast.ai/start_gcp.html)
